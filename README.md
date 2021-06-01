@@ -21,3 +21,5 @@
 [InsertSort](aulas/aula04_PesquisaEOrdenacao/InsertSort.cpp)
 
 [SelectSort](aulas/aula04_PesquisaEOrdenacao/SelectSort.cpp)
+
+[BuscaBinaria](aulas/aula04_PesquisaEOrdenacao/BuscaBinaria.cpp)
