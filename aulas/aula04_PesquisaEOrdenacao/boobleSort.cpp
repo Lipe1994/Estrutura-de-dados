@@ -19,7 +19,7 @@ int main()
 	imprimeVetor(vet, 5);
 	
 
-    return (0);
+    return 0;
 }
 
 void boobleSort(int vet[], int tam )
