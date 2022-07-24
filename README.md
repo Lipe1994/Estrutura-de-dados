@@ -23,3 +23,13 @@
 [SelectSort](aulas/aula04_PesquisaEOrdenacao/SelectSort.cpp)
 
 [BuscaBinaria](aulas/aula04_PesquisaEOrdenacao/BuscaBinaria.cpp)
+
+
+### Pilha, fila, lista encadeada e hash
+[Pilha](aulas/aula05_pilhas/)
+
+[fila](aulas/aula06_filas/)
+
+[listaEncadeada](aulas/aula07_listaEncadeada/)
+
+[tabelaHash](aulas/aula08_tabelaHash/)
