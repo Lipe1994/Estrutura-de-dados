@@ -33,3 +33,7 @@
 [listaEncadeada](aulas/aula07_listaEncadeada/)
 
 [tabelaHash](aulas/aula08_tabelaHash/)
+
+
+### Arvore binária
+[Pilha](aulas/aula05_pilhas/)
