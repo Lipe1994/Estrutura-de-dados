@@ -36,4 +36,4 @@
 
 
 ### Árvore binária
-[Árvore](aulas/aula05_pilhas/)
+[Árvore](aulas/aula09_arvores/)
