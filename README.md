@@ -35,5 +35,5 @@
 [tabelaHash](aulas/aula08_tabelaHash/)
 
 
-### Arvore binária
-[Pilha](aulas/aula05_pilhas/)
+### Árvore binária
+[Árvore](aulas/aula05_pilhas/)
